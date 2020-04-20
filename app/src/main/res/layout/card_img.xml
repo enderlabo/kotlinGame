@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_gravity="center"
+>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+        <ImageView
+                android:id="@+id/iv11"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv12"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv13"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+        <ImageView
+                android:id="@+id/iv21"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv22"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv23"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+        <ImageView
+                android:id="@+id/iv31"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv32"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+        <ImageView
+                android:id="@+id/iv41"
+
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+        <ImageView
+                android:id="@+id/iv42"
+                android:src="@drawable/ic_black_box"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:contentDescription="TODO"/>
+
+    </LinearLayout>
+
+</LinearLayout>
